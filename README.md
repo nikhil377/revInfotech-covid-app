@@ -6,6 +6,6 @@
 
 3.) Run the project type npm run start.
 
-Tada..!! There you go 
+Thanks
 
 
